@@ -6,6 +6,7 @@ class GameDie
   public:
    GameDie();
    void roll();
+   long number;
 };
 
 #include "GameDie.cpp"
